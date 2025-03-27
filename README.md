@@ -1,8 +1,7 @@
 # Raspberry-Pi
+<h3>The Raspberry Pi has pins called GPIO pins, these 40 pins are located on the left edge of the board and GPIO stand for General-Purpose Input/Output. These pins can be programmed to control electronic items. </h3>
 
 ![raspberry pi image](https://github.com/user-attachments/assets/0d172541-ca12-47cf-8d57-01ecf52288d0)
-
-<h3>The Raspberry Pi has pins called GPIO pins, these 40 pins are located on the left edge of the board and GPIO stand for General-Purpose Input/Output. These pins can be programmed to control electronic items. </h3>
 
 
 <h3>To begin our project we first had to set up the raspberry pi and divide the work between the four of us. We began by building a simpler version of the vending machine on a breadboard, like the image below. This is because we will be using our code to run the machine rather than all of the extra wires and resistors.</h3>
