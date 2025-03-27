@@ -1,5 +1,6 @@
 # Raspberry-Pi
-![IMG_6225](https://github.com/user-attachments/assets/f6bda2f8-3a5f-46a3-9396-1d9d97b28d3d)
+
+![raspberry pi image](https://github.com/user-attachments/assets/0d172541-ca12-47cf-8d57-01ecf52288d0)
 
 <h3>The Raspberry Pi has pins called GPIO pins, these 40 pins are located on the left edge of the board and GPIO stand for General-Purpose Input/Output. These pins can be programmed to control electronic items. </h3>
 
