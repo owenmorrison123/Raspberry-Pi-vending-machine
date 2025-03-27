@@ -1,5 +1,5 @@
 # Raspberry-Pi
-<h3>The Raspberry Pi has pins called GPIO pins, these 40 pins are located on the left edge of the board and GPIO stand for General-Purpose Input/Output. These pins can be programmed to control electronic items. </h3>
+<h3>The Raspberry Pi has pins called GPIO pins, these 40 pins are located on the left edge of the board and GPIO stand for General-Purpose Input/Output. These pins can be programmed to control electronic items. The power source plugs into the bottom right port and then we connect it to the computer using RealVNC Viewer. We use this because we can use the raspberry pi without having to have a monitor, mouse, and keyboard for it. Because it is a computer, it acts like a computer and still requires those components. </h3>
 
 ![IMG_6225](https://github.com/user-attachments/assets/9df6e079-4eb4-449c-9d6e-bc56edfa1089)
 
