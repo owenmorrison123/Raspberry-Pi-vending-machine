@@ -16,4 +16,14 @@
 
 ![IMG_6281](https://github.com/user-attachments/assets/aeb990a9-f010-4fc7-9e76-963e00ac0619)
 
+<h3>Below is the code we used for our vending machine. This is the complete code and it runs smoothly</h3>
+
+![Part 1 code](https://github.com/user-attachments/assets/03ccd8c2-eed1-4386-80e9-4eaf5c8b3270)
+
+![Part 2 code](https://github.com/user-attachments/assets/896b4630-9fc6-4a98-abc6-ae0759b61959)
+
+<h3>This is the code for the simple vending machine</h3>
+
+![simple vending machine code](https://github.com/user-attachments/assets/ca8b24b0-cee9-404f-b459-e418632378c7)
+
 Timmons-Brown, D. (2019). Learn robotics with Raspberry Pi: Build and code your own moving, sensing, thinking robots. No Starch Press.
